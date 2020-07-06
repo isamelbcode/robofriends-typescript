@@ -14,4 +14,3 @@ const Scroll = (props:props) => {
 
 export default Scroll;
 
-test 25
